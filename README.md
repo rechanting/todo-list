@@ -1,11 +1,17 @@
 # Simple to-do list
-Run these commands to get the environment set up when you are in the code directory
+Run these commands to get the environment set up when you are in the code directory \n
+
+```
 python -m venv .venv
 Set-ExecutionPolicy RemoteSigned -Scope Process
-.venv\Scripts\activate  
+.venv\Scripts\activate
+```
 
 to run the code do
-python -m flask run
- 
+```
+python index.py
+ ```
 to download a package run
-python -m pip install <name> 
+```
+python -m pip install <pkg name> 
+```
