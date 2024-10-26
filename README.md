@@ -1,5 +1,5 @@
 # Simple to-do list
-Run these commands to get the environment set up when you are in the code directory \n
+Run these commands to get the environment set up when you are in the code directory
 
 ```
 python -m venv .venv # Downloads the virtual environment
